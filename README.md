@@ -6,17 +6,25 @@
 
 **Descrição do projeto:** Projeto desempenhado para organização pessoal, onde possuira 3 formas de visualização das atividades: DAshbord(geral), Planner Diario e Planner Mensal. Alem disto havera autentificação de usuario. Farei o uso da api rest da Microsoft (Microsoft Graph)
 
-**Prototipação no Figma:** Link para o projeto do Figma, onde o design das telas foi desenvolvido.
-
 **Design System:** Link para o documento que descreve o Design System da aplicação.
 
 **Framework CSS:** tailwind\bootstrap
 
-**Backend Utilizado:** Nome da ferramenta BaaS utilizada (ex: PocketBase).
+## Backend Utilizado: Nome da ferramenta BaaS utilizada (ex: PocketBase).
 
-**Dependências:** Lista das bibliotecas JavaScript utilizadas. 
+1. 
 
-**Link para o site em produção:** [feito.softacademy.tech](https://feito.softacademy.tech)
+## Dependências: Lista das bibliotecas JavaScript utilizadas. 
+
+1. 
+
+## Prototipação no Figma:
+
+- 
+
+## Endereço de deploy (github Pages + hostinger)
+
+[feito.softacademy.tech](https://feito.softacademy.tech)
 
 ## Checklist de Funcionalidades
 

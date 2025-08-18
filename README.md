@@ -12,7 +12,7 @@
 
 ## Backend Utilizado: Nome da ferramenta BaaS utilizada (ex: PocketBase).
 
-1. 
+1. Firebase
 
 ## Dependências: Lista das bibliotecas JavaScript utilizadas. 
 

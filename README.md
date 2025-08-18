@@ -8,7 +8,7 @@
 
 **Design System:** Link para o documento que descreve o Design System da aplicação.
 
-**Framework CSS:** tailwind\bootstrap
+**Framework CSS:** tailwind
 
 ## Backend Utilizado: Nome da ferramenta BaaS utilizada (ex: PocketBase).
 

@@ -16,7 +16,9 @@
 
 ## Dependências: Lista das bibliotecas JavaScript utilizadas. 
 
-1. 
+1. Notyfy
+2. Transloco
+3. fullcalendar.io
 
 ## Prototipação no Figma:
 
